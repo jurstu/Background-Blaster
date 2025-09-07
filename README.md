@@ -2,6 +2,7 @@
 
 Code project for Background Blaster
 
+![alt text](docs/output.gif)
 
 
 ## Directories explained
